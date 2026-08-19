@@ -1,0 +1,7 @@
+requests
+python-dotenv
+langchain
+langchain-community
+fastapi
+uvicorn
+# Add specific LLM provider packages if needed (e.g., langchain-openai, langchain-google-genai)
